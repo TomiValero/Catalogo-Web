@@ -31,7 +31,7 @@
                 <div class="col" style="max-width: 75%">
                     <div class="card h-100">
                         <picture style="min-height: 100px; border-bottom: 1px solid rgba(0, 0, 0, 0.175)">
-                            <asp:Image runat="server" ID="imagenArticulo" Style="max-width: 100%;" AlternateText="Imagen no disponible"/>
+                            <asp:Image runat="server" ID="imagenArticulo" Style="max-width: 100%;"  AlternateText="Imagen no disponible" />
                         </picture>
                         <div class="card-body">
                             <h5 class="card-title"><%#Eval("Nombre")%></h5>

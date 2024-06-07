@@ -37,6 +37,7 @@ namespace tp_carrito_equipo_15 {
                 List<string> listaImagenes = imagenNegocio.Imagenes(articulo);
                 Image img = (Image)e.Item.FindControl("imagenArticulo");
                 img.ImageUrl = listaImagenes[0];
+ 
             }
         }
     }

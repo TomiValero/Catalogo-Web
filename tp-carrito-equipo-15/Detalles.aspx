@@ -40,7 +40,7 @@
           <asp:Label ID="LblCantidad" runat="server" Text="Cantidad:" ></asp:Label>
       </div>
       <div style="margin-bottom:10px">  
-          <asp:TextBox ID="txtCantidad" runat="server" TextMode="Number" CssClass="custom-select" style="width:100px;"/>
+          <asp:TextBox ID="txtCantidad" runat="server" TextMode="Number" CssClass="custom-select" style="width:100px;" min="1"/>
 
           <asp:Label ID="lblWarningCant" runat="server" Text="Label" style="color:red;"></asp:Label>
       </div>
