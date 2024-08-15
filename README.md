@@ -1,6 +1,8 @@
 
 <body>
     <h1>Desarrollo de Aplicación Web para Catálogo de Productos y Carrito de Compras</h1>
+    
+![CatalogowebProy](https://github.com/user-attachments/assets/7c333bf1-4271-4a37-ab51-f3aa9dcc8e32)
 
 <h2>Descripción del Proyecto</h2>
 <p>Desarrollamos en equipo una aplicación web utilizando C#, ASP.NET y WebForms basada en un catálogo de productos preexistente. El objetivo principal del proyecto era permitir a los usuarios navegar por una lista de productos, filtrar los resultados y agregar los productos deseados a un carrito de compras. La información del carrito se maneja en la sesión del servidor, asegurando una experiencia de usuario fluida sin la necesidad de almacenar temporalmente los datos en la base de datos.</p>
